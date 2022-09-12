@@ -59,7 +59,7 @@ tailwind and javascript
 ## Author
 
 - Website - [https://newdydx.github.io/qr-code-component/]
-- Frontend Mentor - [@nnewdydx]
+- Frontend Mentor - [@newdydx]
 - Twitter - [@mydydx]
 
 
