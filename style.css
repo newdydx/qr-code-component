@@ -16,9 +16,15 @@ body {
     max-width: 300px;
     background-color: hsl(0, 0%, 100%);
     padding: 1rem;
+    position:relative;
     border-radius: 10px;
     margin-bottom: -0.3rem;
+    transition: .4s ease-out, transform 1s;
 }
+.sec:hover {
+    max-width: 308px;
+}
+
 .sec img {
     width:100%;
     border-radius: inherit;
@@ -28,6 +34,7 @@ body {
      font-weight: 700;
      font-size: 1.4rem;
      color: hsl(218, 44%, 22%);
+     padding-bottom: 0.3rem;
 }
 p {
     font-weight: 500;
