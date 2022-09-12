@@ -27,8 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/newdydx/qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://newdydx.github.io/qr-code-component/)
+- Solution URL: (https://github.com/newdydx/qr-code-component.git)
+- Live Site URL: (https://newdydx.github.io/qr-code-component/)
 
 ## My process
 
@@ -58,9 +58,9 @@ tailwind and javascript
 - w3schools.com
 ## Author
 
-- Website - [heritage](https://www.your-site.com)
-- Frontend Mentor - [@nnewdydx](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@mydydx](https://www.twitter.com/yourusername)
+- Website - [https://newdydx.github.io/qr-code-component/]
+- Frontend Mentor - [@nnewdydx]
+- Twitter - [@mydydx]
 
 
 
