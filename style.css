@@ -21,10 +21,6 @@ body {
     margin-bottom: -0.3rem;
     transition: .4s ease-out, transform 1s;
 }
-/* .sec:hover {
-    max-width: 308px;
-} */
-
 .sec img {
     width:100%;
     border-radius: inherit;
